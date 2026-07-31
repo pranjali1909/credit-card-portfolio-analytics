@@ -15,7 +15,7 @@ The project combines customer segmentation (RFM), spending analytics, and revenu
 
 ## Dataset
 
-**Source:** Sparkov Credit Card Transactions Dataset (Simulated)
+**Source:** Sparkov Credit Card Transactions Dataset.
 
 The dataset contains customer-level credit card transaction data including:
 
@@ -118,13 +118,13 @@ Based on the portfolio analysis, the following actions can help improve customer
 
 ### Customer Engagement & Spend Dynamics
 
-![Customer Engagement Dashboard](images/customer_dashboard.png)
+![Customer Engagement Dashboard](images/Dashboard_1.png)
 
 ---
 
 ### Portfolio Health & Revenue Leakage
 
-![Portfolio Health Dashboard](images/portfolio_dashboard.png)
+![Portfolio Health Dashboard](images/Dashboard_2.png)
 ## Live Dashboard
 
 🔗 **[View Interactive Google Sheets Dashboard](https://docs.google.com/spreadsheets/d/1QbdQ-ETJqQvjMqZKtil-4spmzikSONDgSFtmxoPielk/edit?gid=0#gid=0)**
